@@ -36,3 +36,51 @@
     transform: rotate(360deg);
   }
 }
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BenchNine:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap');
+
+.fontCust1{
+  font-family: 'Dancing Script', cursive;
+}
+.fontCust2{
+    font-family : "Oswald","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.fontCust3{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.fontCust4{
+  font-family: 'BenchNine', sans-serif;
+}
+
+.fontCust5{
+	font-family: 'Pacifico', cursive;
+}
+
+.fontCust6{
+	font-family: 'Noto Naskh Arabic', serif;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.golden{
+  color:  #ddc01e;
+}
